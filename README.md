@@ -1,5 +1,13 @@
-# Bootproject1 - Projeto Feito com Boostrap 5
-WebSite Usando Framework Bootstrap + CSS Próprio
+# Website - Distribuidora de Alimentos
 
-# Link Website
+WebSite foi criado visando uma página web para uma distribuidora de alimentos atacadista.
+
+# Projeto
+
+* HTML 
+* CSS
+* BOOTSTRAP 5
+* GOOGLE FONTS
+
+# Link Projeto
 https://kevinbelc.github.io/bootproject1/
